@@ -7,7 +7,6 @@
         "php": ">=7.3",
         "hyperf/config-apollo": "~v2.1.0",
         "ext-openssl": "*",
-        "ext-swoole_postgresql": "*",
         "hyperf/async-queue": "^2.1",
         "hyperf/pool": "^2.1",
         "hyperf/signal": "^2.1",
